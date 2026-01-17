@@ -28,4 +28,4 @@ O projeto também inclui análises quantitativas e acadêmicas:
 
 Em resumo, o material serve como um guia completo para transformar a programação de uma atividade caótica em uma **profissão disciplinada**, utilizando ferramentas técnicas e organizacionais para enfrentar a complexidade crescente dos sistemas de software.
 
-[![link do projeto]([http://img.youtube.com/vi/nX_inqaAzOI/0.jpg](https://notebooklm.google.com/notebook/008c3b3f-ba9c-42dd-9cc9-3701884a627c))]
+[**Robert C. Martin Philosophy - NotebookLM**](https://notebooklm.google.com/notebook/008c3b3f-ba9c-42dd-9cc9-3701884a627c)
